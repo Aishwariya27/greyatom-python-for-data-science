@@ -22,20 +22,12 @@ print(new_class)
 # Create the Dictionary
 courses = {"Math":65,"English":70,"History":80,"French":70,"Science":60}
 total = sum(courses.values())
-print(total)
-percentage = float((total/500)*100)
-print(percentage)
-# Slice the dict and stores  the all subjects marks in variable
-
-
-# Store the all the subject in one variable `Total`
-
 # Print the total
-
+print(total)
 # Insert percentage formula
-
+percentage = float((total/500)*100)
 # Print the percentage
-
+print(percentage)
 
 
 
